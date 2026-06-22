@@ -238,3 +238,4 @@ class HovorkaModel:
 
         plt.tight_layout()
         return fig
+
