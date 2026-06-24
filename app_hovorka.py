@@ -121,3 +121,5 @@ if st.button("▶  Run Simulation", use_container_width=True):
 
         except Exception as e:
             st.error(f"An error occurred during simulation: {str(e)}")
+
+# Force cache clear to update graph plotting
